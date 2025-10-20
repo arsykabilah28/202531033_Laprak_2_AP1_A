@@ -12,7 +12,7 @@ int main(){
 	int peti;
 	int kombo;
 	
-	cout << "Masukkan skor kombo anda ";
+	cout << "Masukkan skor kombo anda = ";
 	cin >> kombo;
 	cout << "Selamat Anda Mendapatkan = ";
 	if (kombo < 50){
@@ -31,3 +31,4 @@ int main(){
 	
 	return 0;
 }
+
